@@ -32,3 +32,8 @@ This repository contains a simple docker file for creating docker image for pyth
     Addition.py: Add two Number
     Substraction.py: Subctract two numbers
 
+#### Addedd files to Multiply and Division 2 numbers
+
+    Multiplication.py: Multiply two Numbers
+    Division.py: Divide two numbers
+
