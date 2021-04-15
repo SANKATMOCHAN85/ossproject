@@ -37,3 +37,21 @@ This repository contains a simple docker file for creating docker image for pyth
     Multiplication.py: Multiply two Numbers
     Division.py: Divide two numbers
 
+#### Addedd files for Basic Calculation
+
+    BasicCalculator.py: Does basic calculation upon user inputs.
+
+    Select operation.
+    1.Add
+    2.Subtract  
+    3.Multiply
+    4.Divide
+
+    Enter choice(1/2/3/4): 1
+    Enter first number: 5
+    Enter second number: 4
+    5.0 + 4.0 = 9.0
+
+#### Addedd files for square root function
+
+    squareroot.py: Performs square root function.
