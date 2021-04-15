@@ -8,10 +8,10 @@ sum = float(num1) + float(num2)
 # Display the sum
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 
-yes = input('Do you want to add more numbers, YES or NO? ')
-while yes == 'YES':
+condition = input('Do you want to add more numbers, YES or NO? ')
+while condition.upper() == 'YES':
     num3 = input('Enter the next number: ')
     sum = float(num3) + sum
-    yes = input('Do you want to add more numbers, YES or NO? ')
+    condition = input('Do you want to add more numbers, YES or NO? ')
 
 print('The sum is {0}'.format(sum))
