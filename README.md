@@ -26,17 +26,7 @@ This repository contains a simple docker file for creating docker image for pyth
 #### Run `python`
 
     docker run -it --rm dockerfile/python python
-
-#### Addedd files to Add and substract 2 numbers
-
-    Addition.py: Add two Number
-    Substraction.py: Subctract two numbers
-
-#### Addedd files to Multiply and Division 2 numbers
-
-    Multiplication.py: Multiply two Numbers
-    Division.py: Divide two numbers
-
+    
 #### Addedd files for Basic Calculation
 
     BasicCalculator.py: Does basic calculation upon user inputs.
@@ -52,6 +42,23 @@ This repository contains a simple docker file for creating docker image for pyth
     Enter second number: 4
     5.0 + 4.0 = 9.0
 
+
+#### Addedd files to Add and substract 2 numbers
+
+    Addition.py: Add two Number
+    Substraction.py: Subctract two numbers
+
+#### Addedd files to Multiply and Division 2 numbers
+
+    Multiplication.py: Multiply two Numbers
+    Division.py: Divide two numbers
+
 #### Addedd files for square root function
 
     squareroot.py: Performs square root function.
+    
+#### upgraded Multiply and Division files for better performance
+
+ Multiplication.py: Multiply numbers in a list
+    Division.py: Divide two numbers using floor
+
