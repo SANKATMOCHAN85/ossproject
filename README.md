@@ -37,3 +37,7 @@ This repository contains a simple docker file for creating docker image for pyth
     Multiplication.py: Multiply two Numbers
     Division.py: Divide two numbers
 
+#### upgraded Multiply and Division files for better performance
+
+ Multiplication.py: Multiply numbers in a list
+    Division.py: Divide two numbers using floor
